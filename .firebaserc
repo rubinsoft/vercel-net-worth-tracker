@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "net-worth-tracker-3e914"
-  }
+    "default": "net-worth-tracker-3e914",
+    "portfolio-tracker": "portfolio-tracker-d8d52"
+  },
+  "targets": {},
+  "etags": {}
 }
